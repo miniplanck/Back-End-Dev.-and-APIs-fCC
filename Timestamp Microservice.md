@@ -15,6 +15,9 @@ In this project, we are asked to build a microservice such that:
 
 [Solution](https://replit.com/join/leuyabzstx-minip). The proposed solution segment is properly identified, after accesssing the *index.js* file.
 
+<p align="center" width="100%"><img width="434" alt="Solution" src="https://user-images.githubusercontent.com/73555298/188279004-5905db6a-1037-4432-95b6-f859ea21cb79.png">
+  </p>
+
 ### Solution Breakdown:
 
 We start by creating a route for a GET method to path ".../api/:date?", where :date is the *route parameter*. It is necessary to take into account four separate cases:
