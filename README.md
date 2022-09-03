@@ -11,3 +11,7 @@ The five projects are listed as follows:
 - [File Metadata Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice);
 
 All of the projects were solved using *Replit*, an online tool, using the provided templates.
+
+### Disclaimer: 
+
+Most of the projects are solved from the provided template in each project's description.
