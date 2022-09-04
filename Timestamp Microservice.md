@@ -8,7 +8,7 @@ In this project, we are asked to build a microservice such that:
 4. *Your project can handle dates that can be successfully parsed by `new Date(date_string)`;*
 5. *If the input date string is invalid, the api returns an object having the structure `{ error : "Invalid Date" }`;*
 6. *An empty date parameter should return the current time in a JSON object with a `unix` key;*
-7. *An empty date parameter should return the current time in a JSON object with a `utc` key;*
+7. *An empty date parameter should return the current time in a JSON object with a `utc` key.*
 
 ### Example
 
