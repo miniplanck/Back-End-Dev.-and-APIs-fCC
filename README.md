@@ -10,7 +10,7 @@ The five projects are listed as follows:
 - [Exercise Tracker](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/exercise-tracker);
 - [File Metadata Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice);
 
-All of the projects were solved using *Replit*, an online tool, using the provided templates.
+All of the projects were solved with *Replit*, an online tool, using the provided templates.
 
 ### Disclaimer: 
 
