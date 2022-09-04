@@ -10,6 +10,10 @@ In this project, we are asked to build a microservice such that:
 6. *An empty date parameter should return the current time in a JSON object with a unix key;*
 7. *An empty date parameter should return the current time in a JSON object with a utc key;*
 
+### Relevant Documentation:
+
+[Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date).
+
 
 ### Solution:
 
