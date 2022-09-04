@@ -9,6 +9,8 @@ In this project, we are asked to build a microservice such that:
 
 ### Example
 
+[Example](https://request-header-parser-microservice.freecodecamp.rocks/).
+
 <p align="center" width="100%"><img width="434" alt="Solution" src="https://user-images.githubusercontent.com/73555298/188320816-f3c78702-e4b1-4096-acb2-9f5474cad94f.png">
   </p>
 
