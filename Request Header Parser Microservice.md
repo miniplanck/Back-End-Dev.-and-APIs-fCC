@@ -27,7 +27,7 @@ In this project, we are asked to build a microservice such that:
 
 ### Solution Breakdown:
 
-This project focuses on the `req` parameter. We start by defining a route for the path `/api/whoami`, triggered by the `GET` method. When the `GET` request is sent by the user, the middleware does the following:
+This project focuses on the `req` parameter. We start by defining a route for the path `/api/whoami`, triggered by the GET method. When the GET request is sent by the user, the middleware does the following:
 
 - Initiates a variable `ip`, whose value is the ip address of the user. Its value is captured by `req.ip`;
 - Initiates a variable `software`, whose value contains the information regarding the software used to access the website. This value can be retrieved by using `req.headers['user-agent']` (cf. the second link for the documentation);
