@@ -10,6 +10,13 @@ In this project, we are asked to build a microservice such that:
 6. *An empty date parameter should return the current time in a JSON object with a unix key;*
 7. *An empty date parameter should return the current time in a JSON object with a utc key;*
 
+### Example
+
+[Example](https://timestamp-microservice.freecodecamp.rocks/).
+
+<p align="center" width="100%"><img width="434" alt="Example" src=https://user-images.githubusercontent.com/73555298/188310039-81f1b65f-5c76-4ada-bd7d-0f3c732e0202.png></p>
+
+
 ### Relevant Documentation:
 
 [Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date).
