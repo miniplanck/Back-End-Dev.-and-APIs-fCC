@@ -2,7 +2,6 @@
 
 In this project, we are asked to build a microservice such that:
 
-1. *You should provide your own project, not the example URL;*
 2. *A request to `/api/whoami` should return a JSON object with your IP address in the `ipaddress` key;*
 3. *A request to `/api/whoami` should return a JSON object with your preferred language in the `language` key;*
 4. *A request to `/api/whoami` should return a JSON object with your `software` in the software key.*
@@ -16,7 +15,7 @@ In this project, we are asked to build a microservice such that:
 
 ### Relevant Documentation:
 
-[Documentation](https://expressjs.com/en/api.html) and [documentation](https://sailsjs.com/documentation/reference/request-req).
+[Express Documentation](https://expressjs.com/en/api.html) and [another Express Documentation](https://sailsjs.com/documentation/reference/request-req).
 
 ### Solution:
 
