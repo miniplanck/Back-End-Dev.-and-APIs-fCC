@@ -1,4 +1,4 @@
-# Timestamp Microservice
+# Exercise Tracker
 
 In this project, we are asked to build a microservice such that:
 
