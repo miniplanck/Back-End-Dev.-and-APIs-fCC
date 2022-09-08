@@ -16,7 +16,7 @@ In this project, we are asked to build a microservice such that:
 12. *The `description` property of any object in the log array that is returned from `GET /api/users/:_id/logs` should be a string;*
 13. *The `duration` property of any object in the log array that is returned from `GET /api/users/:_id/logs` should be a number;*
 14. *The `date` property of any object in the log array that is returned from `GET /api/users/:_id/logs` should be a string. Use the `dateString` format of the `Date` API;*
-15. *You can add `from`, `to` and `limit` parameters to a `GET /api/users/:_id/logs` request to retrieve part of the log of any user. `from` and `to` are dates in `yyyy-mm-dd` format. `limit` is an integer of how many logs to send back;*
+15. *You can add `from`, `to` and `limit` parameters to a `GET /api/users/:_id/logs` request to retrieve part of the log of any user. `from` and `to` are dates in `yyyy-mm-dd` format. `limit` is an integer of how many logs to send back.*
 
 Each response should have the following structures:
 
