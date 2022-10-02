@@ -15,3 +15,7 @@ All of the projects were solved with *Replit*, an online tool, using the provide
 ### Disclaimer: 
 
 Most of the projects are solved from the provided template in each project's description.
+
+## Developed stack
+
+<a href="https://nodejs.org/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS Logo" width="50px" height="50px"></a>&nbsp;&nbsp;
